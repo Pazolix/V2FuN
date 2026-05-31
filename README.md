@@ -1,18 +1,25 @@
-# v2rayN
+# V2FuN
 
-A GUI client for Windows, Linux and macOS, support [Xray](https://github.com/XTLS/Xray-core)
-and [sing-box](https://github.com/SagerNet/sing-box)
-and [others](https://github.com/2dust/v2rayN/wiki/List-of-supported-cores)
+V2FuN is a GUI client for Windows, Linux, and macOS that supports  
+[Xray](https://github.com/XTLS/Xray-core),  
+[sing-box](https://github.com/SagerNet/sing-box),  
+and other core protocols listed in the [v2rayN Wiki](https://github.com/2dust/v2rayN/wiki/).
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/2dust/v2rayN)](https://github.com/2dust/v2rayN/commits/master)
-[![CodeFactor](https://www.codefactor.io/repository/github/2dust/v2rayn/badge)](https://www.codefactor.io/repository/github/2dust/v2rayn)
-[![GitHub Releases](https://img.shields.io/github/downloads/2dust/v2rayN/latest/total?logo=github)](https://github.com/2dust/v2rayN/releases)
-[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/v2rayn)
+V2FuN is a fork of [v2rayN](https://github.com/2dust/v2rayN).
 
-## How to use
+## How to Use
 
-Read the [Wiki](https://github.com/2dust/v2rayN/wiki) for details.
+Please read the [Wiki](https://github.com/Pazolix/V2FuN/wiki) for detailed instructions.
 
 ## Telegram Channel
 
-[github_2dust](https://t.me/github_2dust)
+- [TempSide](https://t.me/TempSide)
+
+## Disclaimer
+
+This project is a fork of [v2rayN](https://github.com/2dust/v2rayN) and is intended for educational and personal use only.
+I do not use it for personal benefit.
+
+## Author
+
+PAZOLIX
